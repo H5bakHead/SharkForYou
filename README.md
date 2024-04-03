@@ -1,3 +1,4 @@
 # SharkForYou
 
-Shark for all
+Shark for you
+YOLO for you
